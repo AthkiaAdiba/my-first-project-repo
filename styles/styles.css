@@ -42,7 +42,7 @@ header{
     text-align: center;
     font-family: 'Inter', sans-serif;
 }
-#first{
+.first{
     color: #F00;
     font-size: 88px;
     font-weight: 700;
@@ -192,4 +192,76 @@ header{
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+}
+/* girl section */
+#girl-tittle-second{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+#girl-tittle-span{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+
+}
+#girl-description{
+    width: 1068px;
+}
+#girl-tittle-first{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+
+}
+#girl{
+    margin: 0 140px 120px;
+    text-align: center;
+    
+}
+#girl-tittle-second{
+     padding-bottom: 5px;
+}
+#rectangle{
+    margin: 0 140px 120px;
+}
+/* portfolio */
+#Portfolio-first{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+#Portfolio-second{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+#Portfolio-third{
+    
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 896px;
+
+}
+#images{
+    display: flex;
+    gap: 24px;
+}
+#images-second{
+    display: flex;
+    gap: 24px;
+}
+.images-container{
+    margin: 0 140px 120px;
 }
