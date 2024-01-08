@@ -115,3 +115,38 @@ header{
 #greeting, .greeting-description{
     margin-left: 126px;
 }
+
+/* schedule styles */
+.main-div{
+    background-color: rgba(255, 0, 0, 0.10);
+    margin: 0 140px 120px;
+    border-radius: 8px;
+    
+}
+.sub-div{
+    text-align: center;
+    padding: 100px 350px 110px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.red{
+    color: #F00;
+}
+.btn-primary{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: none;
+
+
+
+}
