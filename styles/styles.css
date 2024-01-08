@@ -1,0 +1,69 @@
+/* header related styles */
+
+header > div{
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    /* text-align: center; */
+    
+    
+}
+header h3{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+}
+header h1{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    /* margin:0 344px 177px; */
+}
+header{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin:50px 140px 120px ;
+    border-radius: 16px;
+}
+.banner-tittle-first{
+    text-align: center;
+    padding-top: 177px;
+
+}
+.banner-tittle-second{
+    text-align: center;
+    padding: 0 344px 177px;
+    margin-top: 10px;
+}
+
+/* main related styles */
+
+.inter{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+#first{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+#third{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+#second{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+#image{
+    width: 802.9px;
+    height: 500px;
+    margin-bottom: 120px;
+
+}
