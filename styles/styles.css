@@ -16,7 +16,6 @@ header h1{
     color: #FFF;
     font-size: 72px;
     font-weight: 900;
-    /* margin:0 344px 177px; */
 }
 header{
     background-image: url('../images/Banner\ Image.png');
@@ -66,4 +65,53 @@ header{
     height: 500px;
     margin-bottom: 120px;
 
+}
+
+/* greeting */
+
+#greeting{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    margin-bottom: 0;
+}
+.greeting-container{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin: 0 140px 120px;
+    width: 1320px;
+    height: 600px;
+
+}
+.greeting-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 0;
+ 
+}
+#greeting-button{
+    
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 48px;
+    margin-left: 158px;
+}
+.greeting-container{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+#greeting-image{
+    
+     width: 319.83px;
+     height: 464.662px;
+     padding: 0.008px 0px 0px 0px;
+     margin-right: 138px;
+}
+#greeting, .greeting-description{
+    margin-left: 126px;
 }
