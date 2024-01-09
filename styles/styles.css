@@ -170,13 +170,14 @@ header {
     padding-top: 100px;
 }
 #group{
-    padding-top: 60px;
+    padding-top: 40px;
 }
 #first-offer {
     color: #F00;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    padding-top: 10px;
 }
 
 #second-offer {
@@ -185,13 +186,14 @@ header {
     font-size: 48px;
     font-weight: 900;
     margin-bottom: 0;
+    margin-top: 20px;
 }
 
 .third-offer {
     color: rgba(7, 2, 17, 0.60) font-family: Inter;
     font-size: 20px;
     font-weight: 400;
-    margin-top: 22px
+    margin-top: 30px
 }
 
 #shall {
@@ -199,6 +201,10 @@ header {
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+    margin-top: 2px;
+}
+#xy{
+    margin-bottom: 25px;
 }
 
 /* girl section */
@@ -283,6 +289,7 @@ header {
     font-size: 48px;
     font-weight: 900;
     margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 #Portfolio-third {
@@ -293,6 +300,7 @@ header {
     font-weight: 400;
     width: 896px;
     margin-top: 5px;
+    margin-bottom: 50px;
 }
 
 #images {
@@ -411,3 +419,4 @@ header {
     width: 1320px;
     height: 1px;
 }
+
